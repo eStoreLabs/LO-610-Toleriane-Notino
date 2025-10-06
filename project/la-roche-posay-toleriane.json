@@ -1,0 +1,708 @@
+{
+  "keys": [
+    "la-roche-posay/toleriane-sensitive-prebiotyczny-krem-nawilzajacy-zmniejszajacy-nadwrazliwosc-cery/p-15756660/"
+  ],
+  "type": 0,
+  "language": "pl-PL",
+  "campaign": "Toleriane",
+  "rpc": "LRP05376",
+  "dateOnSaleFrom": null,
+  "owner": "Jakub-WebDev",
+  "contents": [
+    {
+      "name": "Toleriane",
+      "key": "",
+      "isApproved": false,
+      "rich": {
+        "components": [
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "KV-mobile.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-02.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-02-mobile.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<p><b>Kluczowe dermatologiczne</b> składniki aktywne</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "24px",
+                  "fontFamily": "Roboto",
+                  "textTransform": "uppercase",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginTop": "10px",
+              "marginBottom": "15px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "fiftyFifty",
+            "variant": "v2",
+            "data": [
+              {
+                "name": "header",
+                "value": "",
+                "element": "h2",
+                "properties": {}
+              },
+              {
+                "name": "asset",
+                "value": "MOD-03.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "content",
+                "value": "<b>CERAMIDY</b><br>Pomagają regenerować i wzmacniać barierę skórną.<br><br><b>GLICERYNA</b><br>O właściwościach nawilżających.<br><br><b>WODA TERMALNA Z LA ROCHE-POSAY</b><br>O właściwościach kojących, łagodzących i pomagających zmniejszyć reaktywność skóry.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "18px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "lineHeight": "1.6",
+                  "marginRight": "20px"
+                }
+              }
+            ],
+            "properties": {
+              "padding": "20px 35px",
+              "marginBottom": "40px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-04.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-04-mobile.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "<p><b>Odkryj bestsellery</b> La Roche-Posay</p>",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "30px",
+                  "fontFamily": "Roboto",
+                  "textTransform": "uppercase",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "marginTop": "10px",
+              "marginBottom": "15px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsFive",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Balsam regenerujący o potrójnym działaniu",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD-05-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Regenerujące i ujędrniające serum",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD-05-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Silnie regenerujący balsam kojący",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD-05-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFourTitle",
+                "value": "Długotrwała ochrona przed UVA",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFourText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnFourAsset",
+                "value": "MOD-05-D.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveTitle",
+                "value": "Krem o potrójnym działaniu przeciw niedoskonałościom",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnFiveText",
+                "value": "",
+                "element": "p",
+                "properties": {}
+              },
+              {
+                "name": "columnFiveAsset",
+                "value": "MOD-05-E.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "columnsThree",
+            "variant": "v1",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "DEMAKIJAŻ<br>Usuwa zanieczyszczenia. Redukuje uczucie dyskomfortu. Nie wysusza skóry.<br><br>DELIKATNOŚĆ<br>Delikatna, kremowa konsystencja pozwala ograniczyć pocieranie skóry.<br><br>UKOJENIE<br>Nawilża skórę i wzmacnia jej barierę ochronną.<br><br><b>Składniki</b><br>Niacynamid<br>Pantenol<br>Woda Termalna z La Roche-Posay",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnOneAsset",
+                "value": "MOD-06-A.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnTwoTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoText",
+                "value": "WZMOCNIENIE<br>Wzmocnienie bariery ochronnej skóry².<br><br>NAWILŻENIE<br>Zapewnia natychmiastowe nawilżenie, które trwa do 48 godzin.<br>UKOJENIE<br><br>Skóra jest ukojona i nawilżona dzięki ultra-skoncentrowanemu serum.<br><br><b>Składniki</b><br>Neurosensyna<br>Osmolit<br>Woda Termalna z La Roche-Posay",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnTwoAsset",
+                "value": "MOD-06-B.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              },
+              {
+                "name": "columnThreeTitle",
+                "value": "Benefity",
+                "element": "h6",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginTop": "10px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeText",
+                "value": "REGENERACJA<br>Regeneruje i wzmacnia barierę ochronną skóry.<br><br>UKOJENIE<br>Łagodzi uczucie ściągnięcia, pieczenia i kłucia, suchość i sporadyczne zaczerwienienia.<br><br>NAWILŻENIE<br>Zapewnia intensywne 48-godzinne nawilżenie¹.<br><br><b>Składniki</b><br>Ceramidy<br>Witamina B3<br>Gliceryna",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginTop": "-20px",
+                  "textAlign": "center"
+                }
+              },
+              {
+                "name": "columnThreeAsset",
+                "value": "MOD-06-C.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-07.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "0 35px"
+            },
+            "breakpoints": {
+              "xs": false,
+              "sm": false,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "keyVisual",
+            "data": [
+              {
+                "name": "asset",
+                "value": "MOD-07-mobile.jpg",
+                "element": "img",
+                "alt": "",
+                "properties": {}
+              }
+            ],
+            "properties": {
+              "padding": "15px 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": false,
+              "lg": false
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Jakie składniki w kremie La Roche-Posay Toleriane Sensitive Riche nawilżają skórę?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Krem zawiera glicerynę, która głęboko i skutecznie nawilża skórę, oraz masło Shea, które dodatkowo regeneruje i chroni barierę skórną.<br>...",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Do jakiej cery jest przeznaczony krem La Roche-Posay Toleriane Sensitive Riche?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Krem jest przeznaczony do pielęgnacji skóry suchej i wrażliwej. Idealnie nadaje się do codziennego użytku, a także może być stosowany przez całą rodzinę, w tym niemowlęta powyżej 3. miesiąca życia.<br>...",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneTitle",
+                "value": "Jakie efekty daje stosowanie La Roche-Posay Toleriane Sensitive Riche?",
+                "element": "h2",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "700",
+                  "marginBottom": "20px"
+                }
+              },
+              {
+                "name": "columnOneText",
+                "value": "Krem zapewnia intensywne nawilżenie przez 48 godzin, regeneruje uszkodzony naskórek, wzmacnia barierę ochronną skóry, łagodzi podrażnienia, eliminuje suchość i uczucie ściągnięcia skóry.",
+                "element": "p",
+                "properties": {
+                  "fontSize": "16px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          },
+          {
+            "name": "textComponent",
+            "data": [
+              {
+                "name": "columnOneText",
+                "value": "* Badanie rynku dermokosmetyków z udziałem dermatologów w Polsce, AplusA, I-IV 2023.<br>1 Test aparaturowy.<br>2 Test instrumentalny, 1h po aplikacji produktu, 24 kobiety.",
+                "element": "DangerHtml",
+                "properties": {
+                  "fontSize": "12px",
+                  "fontFamily": "Roboto",
+                  "color": "#111111",
+                  "fontWeight": "400",
+                  "marginBottom": "0"
+                }
+              }
+            ],
+            "properties": {
+              "marginTop": "0",
+              "marginBottom": "10px",
+              "padding": "0 10px"
+            },
+            "breakpoints": {
+              "xs": true,
+              "sm": true,
+              "md": true,
+              "lg": true
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
