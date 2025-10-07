@@ -582,8 +582,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -622,8 +621,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -662,8 +660,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
@@ -690,8 +687,7 @@
               }
             ],
             "properties": {
-              "marginTop": "0",
-              "marginBottom": "10px",
+              "margin": "0 20px 10px 20px",
               "padding": "0 10px"
             },
             "breakpoints": {
